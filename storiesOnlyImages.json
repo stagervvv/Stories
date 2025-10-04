@@ -1,0 +1,72 @@
+{
+    "stories": [
+        {
+            "userName": "Sabine",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/82.jpg",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=281",
+                    "text": "Swipe left or right to change author"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=282",
+                    "text": "Tap on left or right side to switch stories"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=272",
+                    "text": "Stories will close automatically when finished"
+                }
+            ]
+        },
+        {
+            "userName": "Keila Maney",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/81.jpg",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=273",
+                    "text": "You can force dismiss stories by tap on close button"
+                }
+            ]
+        },
+        {
+            "userName": "Gilberto",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/36.jpg",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=277",
+                    "text": "Change swipe animation in code"
+                }
+            ]
+        },
+        {
+            "userName": "Jonathan",
+            "avatarUrl": "https://randomuser.me/api/portraits/men/75.jpg",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=278",
+                    "text": "Change modal animation in code"
+                }
+            ]
+        },
+        {
+            "userName": "Carolyne",
+            "avatarUrl": "https://randomuser.me/api/portraits/women/50.jpg",
+            "media": [
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=279"
+                },
+                {
+                    "type": "image",
+                    "url": "https://picsum.photos/640/1136/?image=280"
+                }
+            ]
+        }
+    ]
+}
